@@ -1,10 +1,8 @@
-﻿# Jewellery shop
+# AURUM
 
-AURUM | Luxury Jewellery
+<img src="./assets/header.svg" width="100%" alt="AURUM" />
 
-## Stack
-
-react Â· vite Â· typescript Â· tailwindcss Â· firebase
+Luxury jewellery storefront.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· tailwindcss Â· firebase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
